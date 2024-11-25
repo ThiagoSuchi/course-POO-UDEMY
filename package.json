@@ -1,0 +1,17 @@
+{
+  "name": "course-poo-udemy",
+  "version": "1.0.0",
+  "description": "- Classe Pessoa: Um \"molde\" para criar objetos com comportamento (métodos) e propriedades.",
+  "main": "GetAndSet.js",
+  "scripts": {
+    "dev": "node ValidadorCPF.js",
+    "start": "nodemon ValidadorCPF.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
