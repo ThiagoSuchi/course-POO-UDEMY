@@ -14,7 +14,6 @@ class ControleRemoto {
     // Método estático - Pertence à classe, é chamado diretamente nela e não depende de nenhuma instância.
     static trocarPilha() {
         console.log('Pilha trocada!');
-        
     }
 }
 
